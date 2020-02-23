@@ -1,0 +1,56 @@
+*{
+	box-sizing: border-box;
+ }
+
+.topnav{	
+	background-color: #A8F0F0; 
+	overflow:hidden; 
+	clear:both;
+}
+
+.container{
+	border: 10px white solid;
+	background-color: white;
+	align-content: center;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+
+body{
+	margin: 0;
+	background-color: white; 
+	background: url("https://courses.cs.washington.edu/courses/cse190m/09sp/labs/2-journal/images/background.gif");
+}
+
+.segment{
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	overflow:hidden;
+  	
+}
+
+ .firstword{
+	font-size: 14pt;
+}
+
+ h2 span{
+  border-bottom: 2px blue dashed;
+}
+
+.topnav h1, .topnav h2{
+	float:right; 
+	clear:both;
+}
+
+.segment img{
+	float:right;
+}
+
+.w3{
+	margin-left:10%;
+}
+
+
